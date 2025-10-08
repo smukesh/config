@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+accounts:
+  message: "welcome to the EsazyBank qa Accounts Service"
+  contactDetails:
+    email: "qaupport@easybank.com"
+    name: "easybank_qa_employee"
+  onCallSupport:
+    - 123452
+    - 678902

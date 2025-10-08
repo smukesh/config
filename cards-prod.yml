@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+cards:
+  message: "welcome to the EsazyBank cards Service"
+  contactDetails:
+    email: "cards_prod@easybank.com"
+    name: "easybank_prod_employee"
+  onCallSupport:
+    - 123453
+    - 678903

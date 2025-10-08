@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+accounts:
+  message: "welcome to the EsazyBank prod Accounts Service"
+  contactDetails:
+    email: "prodsupport@easybank.com"
+    name: "easybank_prod_employee"
+  onCallSupport:
+    - 123453
+    - 678903

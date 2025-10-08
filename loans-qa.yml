@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+loans:
+  message: "welcome to the EsazyBank qa loans Service"
+  contactDetails:
+    email: "loans@easybank.com"
+    name: "easybank_qa_employee"
+  onCallSupport:
+    - 123452
+    - 678902

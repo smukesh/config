@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+cards:
+  message: "welcome to the EsazyBank cards Service"
+  contactDetails:
+    email: "cards_qa@easybank.com"
+    name: "easybank_qa_employee"
+  onCallSupport:
+    - 123452
+    - 678902

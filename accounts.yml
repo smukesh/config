@@ -1,0 +1,14 @@
+
+build:
+  version: 3.0
+
+accounts:
+  message: "welcome to the EsazyBank Accounts Service"
+  contactDetails:
+    email: "accounts@easybank.com"
+    name: "easybank_employee"
+  onCallSupport:
+    - 12345
+    - 67890
+
+
