@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 loans:
-  message: "welcome to the EsazyBank Prod loans Service"
+  message: "welcome to the EsazyBank prod loans Service"
   contactDetails:
     email: "loans@easybank.com"
     name: "easybank_prod_employee"
@@ -11,5 +11,6 @@ loans:
     - 123453
 
     - 678903
+
 
 
