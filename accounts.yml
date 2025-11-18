@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "welcome to the EsazyBank Accounts Service"
+  message: "welcome to the EsazyBank default Accounts Service"
   contactDetails:
     email: "accounts@easybank.com"
     name: "easybank_employee"
